@@ -14,6 +14,6 @@ On my spare time, I mostly play around with unity and develop small games.
 - Game-Development 🤖
 
 ## Get in touch
-Linkedin: https://www.linkedin.com/in/lars-matth%C3%A4us-a7b851219/
-Xing: https://www.xing.com/profile/Lars_Matthaeus083417/cv
+Linkedin: https://www.linkedin.com/in/lars-matth%C3%A4us-a7b851219/  <br>
+Xing: https://www.xing.com/profile/Lars_Matthaeus083417/cv <br>
 Email: larsm0806@googlemail.com
