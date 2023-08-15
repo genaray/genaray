@@ -1,7 +1,7 @@
 ## Hi, I'm genaray 💻
-I am a 22 year old computer science student and technology enthusiast living in NRW, Germany.
+I am a 23 year old computer science student and technology enthusiast living in NRW, Germany.
 
-Im currently in my last year and writing my bachelor thesis at a small local IT-Company.
+Im recently finished my bachelor thesis at a small local IT-Company, looking forward to doing my master aswell.
 
 I mostly use C# and Java on a daily basis. However i love learning new languages and technologies aswell. 
 On my spare time, I mostly play around with unity and develop small games. 
