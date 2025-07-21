@@ -10,9 +10,6 @@ I am a 24-year-old Developer, indie gamedev and technology enthusiast living in 
 - Learning new languages 🇹🇷 
 - Game-Development 🤖
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:larsm0806@googlemail.com) 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=genaray&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=genaray&theme=dark&hide_border=false)<br/>
