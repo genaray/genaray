@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a 24-year-old Developer, indie gamedev and technology enthusiast living in NRW, Germany.<br><br>I recently finished my bachelor thesis in the field of computer science and has been working in a small but excellent local company ever since as a Full-Stack Developer. <br><br>I mostly use C# and Java on a daily basis. However, I love learning new languages and technologies. <br>In my spare time, I mostly play with Unity and develop small games. <br>
 
-## Hobbies
+## ⏳️ Hobbies: 
 - Videogames 🎮
 - Gym 🏋️
 - Photography 📷
